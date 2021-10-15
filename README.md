@@ -2,7 +2,7 @@
 
 Just some basic practice exercieses for SQL.
 
-# SQL Select Exercises:
+## SQL Select Exercises:
 
 1) Get all the columns from the airports table.
 
@@ -10,7 +10,7 @@ Just some basic practice exercieses for SQL.
 
 3) Select all the different values from the altitude column in the airports table.
 
-# Where Exercises
+## Where Exercises
 
 1) Select all records where the city column has the value "Berlin".
 
