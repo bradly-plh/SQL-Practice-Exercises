@@ -1,8 +1,8 @@
-# SQL-Practice-Exercises
+# SQL Practice Exercises
 
 Just some basic practice exercieses for SQL.
 
-## SQL Select Exercises:
+## Select Exercises:
 
 1) Get all the columns from the airports table.
 
