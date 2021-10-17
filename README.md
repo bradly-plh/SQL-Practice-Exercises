@@ -21,3 +21,11 @@ Just some basic practice exercieses for SQL.
 4) Select all records where the country column has the value 'Canada' and the altitude column has the value 0.
 
 5) Select all records where the city column has the value 'Berlin' or 'London'.
+
+## Order By Exercises:
+
+1) Select al records from the airports table, sort the results alphabetically by column city.
+
+2) Select all records from the airports table, sortthe result reversed alphabetically by the column city.
+
+3) Select all records from te airports table, sort the result alphabetically, first by the column country, then by the column city.
